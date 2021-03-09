@@ -1,0 +1,35 @@
+.pink-color{
+    background-color: #fceae8;
+    border-radius: 20px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-image: linear-gradient(to top,red,rgb(250, 46, 114));
+    border-radius: 5px;
+    padding: 10px 20px;
+    border:none;
+    font-weight: 700;
+    color:whitesmoke;
+}
+.price{
+    color:deeppink;
+}
+.carousel-item{
+    padding: 20px;
+}
+.container{
+    margin-bottom: 20px;
+}
+.cat1{
+    background-image: linear-gradient(to right,rgb(219, 111, 10),yellow);
+}
+.cat2{
+    background-image: linear-gradient(to right,rgb(219, 29, 118),lightpink);
+}
+.cat3{
+    background-image: linear-gradient(to right,blue,cyan);
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+}
